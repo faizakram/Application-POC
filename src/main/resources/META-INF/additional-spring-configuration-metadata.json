@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "spring.mail.templates.path",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mail.templates.path'"
+  },
+  {
+    "name": "spring.mail.service.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mail.service.enable'"
+  },
+  {
+    "name": "spring.mail.email.from",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mail.email.from'"
+  },
+  {
+    "name": "spring.mail.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mail.enable'"
+  }
+]}
